@@ -1,4 +1,6 @@
-#  | Guilherme da Silva   
+#  | Guilherme da Silva
+
+Hi, my name is Guilherme, welcome to my ideas and contribuitions
 
 This is not just about studies for me; it's a journey of turning ideas into reality. I proudly showcase all my projects here, as it is the space where my creativity and dedication come to life. From coding to problem-solving, each project represents a step forward in my professional growth.
 
